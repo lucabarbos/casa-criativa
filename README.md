@@ -6,7 +6,11 @@
  
 
 ### :bulb: Sobre
+<<<<<<< HEAD
 O projeto Casa Criativa é um marketplace de coleta de resíduos. Projeto criado na semana Next Level Week com o intuito de introdução ao desenvolvimento web.
+=======
+O projeto Casa Criativa é um site para compartilhar ideias do que se fazer no período de crise. Projeto criado na WorkshopDev com o intuito de introdução ao desenvolvimento web.
+>>>>>>> 63cccaf31091af68556f81c2467f6fe42bfd2118
 
 ---
 
