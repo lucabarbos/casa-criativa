@@ -6,7 +6,7 @@
  
 
 ### :bulb: Sobre
-O projeto Ecoleta é um marketplace de coleta de resíduos. Projeto criado na semana Next Level Week com o intuito de introdução ao desenvolvimento web.
+O projeto Casa Criativa é um site para compartilhar ideias do que se fazer no período de crise. Projeto criado na WorkshopDev com o intuito de introdução ao desenvolvimento web.
 
 ---
 
