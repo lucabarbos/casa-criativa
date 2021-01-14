@@ -10,9 +10,9 @@ body {
     margin: 0;
 }
 
-body#index {
+/* body#index {
     overflow: hidden;
-}
+} */
 
 body.hideScroll {
     overflow: hidden;
